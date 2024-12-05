@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PreP3prova</string>
+    <string name='imput'>Insira um valor</string>
+    <string name='erro'> Valor incorreto</string>
+    <string name='result'>Resultado = </string>
+    <string name='inicia'>Inicia</string>
+</resources>
